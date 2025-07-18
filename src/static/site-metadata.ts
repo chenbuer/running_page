@@ -24,13 +24,13 @@ const data: ISiteMetadataResult = {
       name: 'Summary',
       url: `${getBasePath()}/summary`,
     },
-    {
-      name: 'Blog',
-      url: 'https://github.com/chenbuer',
-    },
+    // {
+    //   name: 'Blog',
+    //   url: 'https://github.com/chenbuer',
+    // },
     {
       name: 'About',
-      url: 'https://github.com/chenbuer',
+      url: 'https://github.com/chenbuer/running_page',
     },
   ],
 };
