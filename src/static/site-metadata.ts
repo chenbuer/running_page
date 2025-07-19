@@ -23,7 +23,7 @@ const data: ISiteMetadataResult = {
     {
       name: 'Summary',
       url: `${getBasePath()}/summary`,
-    }
+    },
   ],
 };
 
