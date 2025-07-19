@@ -15,19 +15,15 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
+  siteTitle: '不二快跑',
   siteUrl: 'https://running.chebuer.shop',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  logo: 'https://avatars.githubusercontent.com/u/7947945?v=4',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Summary',
       url: `${getBasePath()}/summary`,
     },
-    // {
-    //   name: 'Blog',
-    //   url: 'https://github.com/chenbuer',
-    // },
     {
       name: 'X',
       url: 'https://x.com/lvelvelve008',
