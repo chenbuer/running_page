@@ -29,8 +29,8 @@ const data: ISiteMetadataResult = {
     //   url: 'https://github.com/chenbuer',
     // },
     {
-      name: 'About',
-      url: 'https://github.com/chenbuer/running_page',
+      name: 'X',
+      url: 'https://x.com/lvelvelve008',
     },
   ],
 };
