@@ -16,9 +16,9 @@ const getBasePath = () => {
 
 const data: ISiteMetadataResult = {
   siteTitle: '不二快跑',
-  siteUrl: 'https://running.chebuer.shop',
+  siteUrl: 'https://run.chebuer.shop',
   logo: 'https://avatars.githubusercontent.com/u/7947945?v=4',
-  description: 'Personal site and blog',
+  description: 'Buer\'s running page',
   navLinks: [
     {
       name: 'Summary',
