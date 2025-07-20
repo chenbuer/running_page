@@ -55,6 +55,9 @@ jobs:
       BUILD_GH_PAGES: ${{ steps.set_output.outputs.BUILD_GH_PAGES }}
 
     steps:
+      - name: Print Time
+        run: date
+        
       - name: Checkout
         uses: actions/checkout@v4
         with:
