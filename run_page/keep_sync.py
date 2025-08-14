@@ -25,7 +25,8 @@ from generator import Generator
 from utils import adjust_time
 import xml.etree.ElementTree as ET
 
-KEEP_SPORT_TYPES = ["running", "hiking", "cycling"]
+# KEEP_SPORT_TYPES = ["running", "hiking", "cycling"]
+KEEP_SPORT_TYPES = ["running"]
 KEEP2STRAVA = {
     "outdoorWalking": "Walk",
     "outdoorRunning": "Run",
