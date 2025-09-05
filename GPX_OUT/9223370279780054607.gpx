@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="31.9663242073886" lon="118.70425806796742">
+        <ele>22.475246100339465</ele>
+        <time>2025-09-05T12:17:10.200000Z</time>
+      </trkpt>
+      <trkpt lat="31.96628584462573" lon="118.70429792200346">
+        <ele>22.484424915633394</ele>
+        <time>2025-09-05T12:17:22.200000Z</time>
+      </trkpt>
+      <trkpt lat="31.966282620961827" lon="118.70430367693726">
+        <ele>22.258059812398127</ele>
+        <time>2025-09-05T12:18:39.400000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
